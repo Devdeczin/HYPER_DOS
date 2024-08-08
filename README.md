@@ -1,2 +1,2 @@
 # HYPER_DOS
-It's a DoS attack with internet tracking
+WE ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO ANYONE BY THIS CODE
